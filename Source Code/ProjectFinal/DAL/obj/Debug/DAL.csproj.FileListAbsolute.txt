@@ -1,0 +1,6 @@
+Z:\CSE  Study [ Nobel ]\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\C# PROJECT\C# Project CSchool\Source Code\ProjectFinal\DAL\bin\Debug\DAL.dll
+Z:\CSE  Study [ Nobel ]\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\C# PROJECT\C# Project CSchool\Source Code\ProjectFinal\DAL\bin\Debug\DAL.pdb
+Z:\CSE  Study [ Nobel ]\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\C# PROJECT\C# Project CSchool\Source Code\ProjectFinal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+Z:\CSE  Study [ Nobel ]\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\C# PROJECT\C# Project CSchool\Source Code\ProjectFinal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Z:\CSE  Study [ Nobel ]\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\C# PROJECT\C# Project CSchool\Source Code\ProjectFinal\DAL\obj\Debug\DAL.dll
+Z:\CSE  Study [ Nobel ]\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\C# PROJECT\C# Project CSchool\Source Code\ProjectFinal\DAL\obj\Debug\DAL.pdb
